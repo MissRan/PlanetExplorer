@@ -170,3 +170,6 @@ RefactoringAction 1445434118488 PlanetExplorer.java ADD void backward() METHOD
 EditAction 1445434643648 PlanetExplorer.java 1884 8 4 0
 CompilationAction 1445434643870 PlanetExplorer.java
 EditAction 1445434649383 TestPlanetExplorer.java 2032 6 20 11
+CompilationAction 1445434649684 TestPlanetExplorer.java
+CompilationAction 1445434649684 TestPlanetExplorer.java
+CompilationAction 1445434649685 TestPlanetExplorer.java
