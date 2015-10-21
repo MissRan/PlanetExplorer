@@ -11,6 +11,8 @@ public class PlanetExplorer {
 		Example use:
 		PlanetExplorer explorer = new PlanetExplorer(100,100,"(5,5)(7,8)")  //A 100x100 grid with two obstacles at coordinates (5,5) and (7,8) 
 	 */
+		
+		private Face face;
 	}
 	
 	public String executeCommand(String command){
@@ -25,6 +27,39 @@ public class PlanetExplorer {
 		 * The return string should also contain a list of coordinates of the encountered obstacles. No white spaces.
 		 */
 		
+	
 		return null;
 	}
+
+	public void deploy(int X, int Y, Face planetExplorerFace) {
+		this.deploy(X, Y, planetExplorerFace);
+		
+		
+	}
+
+	public static Object face() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public void turnLeft() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void turnRight() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void forword() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void backward() {
+		// TODO Auto-generated method stub
+		
+	}
+	
 }
